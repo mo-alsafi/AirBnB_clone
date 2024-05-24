@@ -1,0 +1,9 @@
+footer{
+    display: grid;
+    place-content: center;
+    position: fixed;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    background-color: green;
+}
